@@ -21,7 +21,7 @@
 
 很多人一有想法就扑进去写 Skill，写完才发现市面上已经有更好的、或者根本不需要 Skill 就能解决。**Skill Architect 就是拦住你，让你先想清楚再动手的那个角色。**
 
-它负责 Skill 创建的**策略阶段**：需求反思 → 竞品调研 → 三路方案对比。分析完成后移交 [skill-creator](https://github.com/YeYueXingl/skill-creator) 进入实现。
+它负责 Skill 创建的**策略阶段**：需求反思 → 竞品调研 → 三路方案对比。分析完成后移交 [skill-creator](https://github.com/YForX/skill-creator) 进入实现。
 
 ### 与 skill-creator 的分工
 
@@ -65,7 +65,7 @@ skill-architect（你）                    skill-creator
 
 ### 不适合
 
-- 已经想清楚要怎么写、不需要调研 → 直接用 [skill-creator](https://github.com/YeYueXingl/skill-creator)
+- 已经想清楚要怎么写、不需要调研 → 直接用 [skill-creator](https://github.com/YForX/skill-creator)
 - 快速小修改、需求极简单 → 直接写就行
 
 **🌐 跨平台**：Claude Code
@@ -77,7 +77,7 @@ skill-architect（你）                    skill-creator
 在 Claude Code 里直接说：
 
 ```
-帮我安装这个 skill：https://github.com/YeYueXingl/skill-architect
+帮我安装这个 skill：https://github.com/YForX/skill-architect
 ```
 
 或者用命令行：
@@ -108,6 +108,6 @@ skill-architect/
 
 [MIT License](./LICENSE) · 自由使用 / 修改 / 再分发
 
-Made by [Y For X](https://github.com/YeYueXingl)
+Made by [Y For X](https://github.com/YForX)
 
 </div>

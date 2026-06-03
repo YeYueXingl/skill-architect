@@ -21,7 +21,7 @@
 
 Most people jump straight into writing a Skill the moment they have an idea — only to find out later that someone already built a better one, or that the whole thing could've been a two-line prompt template. **Skill Architect stops you at the gate and makes you think first.**
 
-It handles the **strategy phase** of Skill creation: necessity reflection → competitive research → three-way approach comparison. Once the analysis is done, it hands off to [skill-creator](https://github.com/YeYueXingl/skill-creator) for implementation.
+It handles the **strategy phase** of Skill creation: necessity reflection → competitive research → three-way approach comparison. Once the analysis is done, it hands off to [skill-creator](https://github.com/YForX/skill-creator) for implementation.
 
 ### Division of labor with skill-creator
 
@@ -67,7 +67,7 @@ Is this worth making into a skill?
 
 ### Not good for
 
-- You already know exactly what to build and don't need research → use [skill-creator](https://github.com/YeYueXingl/skill-creator) directly
+- You already know exactly what to build and don't need research → use [skill-creator](https://github.com/YForX/skill-creator) directly
 - Quick tweaks, extremely simple needs → just write it
 
 **🌐 Cross-platform**: Claude Code
@@ -79,7 +79,7 @@ Is this worth making into a skill?
 In any agent that supports Skills, just say:
 
 ```
-Install this skill: https://github.com/YeYueXingl/skill-architect
+Install this skill: https://github.com/YForX/skill-architect
 ```
 
 Or install via CLI:
@@ -111,6 +111,6 @@ skill-architect/
 
 [MIT License](./LICENSE) · Free to use, modify, and redistribute
 
-Made by [Y For X](https://github.com/YeYueXingl)
+Made by [Y For X](https://github.com/YForX)
 
 </div>
